@@ -27,3 +27,11 @@ AWS Services: Leveraged Amazon S3 for image uploads and EC2 for model deployment
 Flask API: Developed to integrate the ML model into the Android app and facilitate user-friendly interactions.
 Recommendation Dataset: A comprehensive dataset of over 200 unique combinations of fertilizers, soil types, plantation options, and general recommendations.
 Horizon-A represents a significant step forward in modern agriculture, making soil analysis and personalized recommendations accessible to all. Whether you are a farmer seeking to maximize crop yield or an agricultural researcher analyzing soil health, Horizon-A is your go-to solution for intelligent soil analysis and precise recommendations.
+
+
+
+USE CASE -
+This is the stand alone backend(ML) part of mobile application
+app.py - Flask API + local host.
+script.py - Inference code (Prediction Code) : output is redirected to API in json format.
+train.py - Model training Code.
