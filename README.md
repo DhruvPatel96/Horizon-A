@@ -1,5 +1,3 @@
-
-https://github.com/DhruvPatel96/Horizon-A/assets/80629263/d2f730ac-9df5-44ef-8ed6-638e174c3aad
 Horizon-A: Soil Analysis Application"
 
 Welcome to the official GitHub repository of Horizon-A, a groundbreaking solution in the realm of modern agriculture. Developed by Dhruv Kumar Arvind Patel and Anureet Kaur, this application reimagines soil analysis, revolutionizing the way farmers approach crop recommendations and resource management.
